@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ScottRoche
+- 👀 I’m interested in low level software engineerings, AI, and small amounts of electrical engineering.
+- 🌱 I’m currently learning to use the Vulkan API.
